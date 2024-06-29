@@ -1,0 +1,20 @@
+{
+  "name": "learn-psd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xty1992a/learn-psd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xty1992a/learn-psd/issues"
+  },
+  "homepage": "https://github.com/xty1992a/learn-psd#readme"
+}
